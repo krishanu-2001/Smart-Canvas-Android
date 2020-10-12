@@ -8,4 +8,5 @@ calculator built using android
       3. easy to use
       
 <hr>  
-#### Demo
+### Images
+[app_1.png](photos/photo1.png)
