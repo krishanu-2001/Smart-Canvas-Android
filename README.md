@@ -8,4 +8,4 @@ calculator built using android
       3. easy to use
       
 ###  Images
-[app_1.png](https://github.com/krishanu-2001/krishanu-2001.github.io/blob/master/PNG/proj5.png)
+![app_1.png](https://github.com/krishanu-2001/krishanu-2001.github.io/blob/master/PNG/proj5.png)
