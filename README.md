@@ -1,5 +1,6 @@
-# android-calculator
-calculator built using android  
+# android-Canvas
+Canvas on android.  
+smart pen (samsung galaxy note 5 compatible)
   
 ### Features 
     
